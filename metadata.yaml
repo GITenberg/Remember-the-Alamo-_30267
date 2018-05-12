@@ -1,0 +1,44 @@
+_repo: Remember-the-Alamo-_30267
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Schoenherr, John
+    aliases:
+    - Schoenherr, John (John Carl)
+    - Schoenherr, Jack
+    birthdate: 1935
+    deathdate: 2010
+    gutenberg_agent_id: '25396'
+    url: http://www.gutenberg.org/2009/agents/25396
+    wikipedia: http://en.wikipedia.org/wiki/John_Schoenherr
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fehrenbach, T. R.
+    aliases:
+    - Fehrenbach, Theodore Reid
+    - Fehrenbach, Theodore Reed
+    - Fehrenbach, R. R.
+    birthdate: 1925
+    gutenberg_agent_id: '34471'
+    url: http://www.gutenberg.org/2009/agents/34471
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2009-10-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30267'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Time travel -- Fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Alamo (San Antonio, Tex.) -- Siege, 1836 -- Fiction'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+title: Remember the Alamo!
+url: http://www.gutenberg.org/ebooks/30267
